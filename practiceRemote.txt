@@ -2,4 +2,11 @@ This is a test Remote
 a second line
 a third line
 a merge conflict on the fourth line
-testline by Yao
+<<<<<<< HEAD
+
+=======
+Gus added this line here
+>>>>>>> 2faebd40e09c8ff215841f73e0afad0078208899
+
+
+## test line added by Yao
