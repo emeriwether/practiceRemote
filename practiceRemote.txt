@@ -2,4 +2,3 @@ This is a test Remote
 a second line
 a third line
 a merge conflict on the fourth line
-start a pull request
